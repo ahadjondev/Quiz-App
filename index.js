@@ -10,7 +10,7 @@
     },
 
     {
-        question: "Which is the largest country in the world",
+        question: "Which country speaks Russian",
         answers: [
             {text: "Russia", correct: true},
             {text: "China", correct: false},
@@ -20,7 +20,7 @@
     },
 
     {
-        question: "Which is country produce anime",
+        question: "Which country produces anime",
         answers: [
             {text: "Russia", correct: false},
             {text: "China", correct: false},
@@ -40,12 +40,10 @@
     },
 
     {
-        question: "Which country has most earthquakes in the world",
+        question: "Did I pass the test? 😊",
         answers: [
-            {text: "Russia", correct: false},
+            {text: "Yes", correct: true},
             {text: "China", correct: false},
-            {text: "Japan", correct: true},
-            {text: "India", correct: false},
         ]
     },
     
